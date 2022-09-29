@@ -1,2 +1,2 @@
-# nozama
-project Nozama
+# nozama-configserver
+Project ConfigServer in Nozama
